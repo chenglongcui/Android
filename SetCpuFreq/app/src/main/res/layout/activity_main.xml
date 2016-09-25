@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.modee.setcpufreq.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="available frequencies"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="required freq."
+        android:id="@+id/textView2"
+        android:layout_marginTop="44dp"
+        android:layout_below="@+id/setUserspaceButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <!--
+    <EditText-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:inputType="number"-->
+        <!--android:ems="10"-->
+        <!--android:id="@+id/freqEditView"-->
+        <!--android:layout_below="@+id/textView2"-->
+        <!--android:layout_alignParentLeft="true" />
+    -->
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="change to user space"
+        android:id="@+id/setUserspaceButton"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="34dp"
+        android:onClick="changeMode" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="set freq"
+        android:id="@+id/setButton"
+        android:nestedScrollingEnabled="false"
+        android:onClick="setFreq"
+        android:layout_alignTop="@+id/spinner_cpufreq"
+        android:layout_alignRight="@+id/setDefaultButton"
+        android:layout_alignEnd="@+id/setDefaultButton" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="view current freq"
+        android:id="@+id/viewButton"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="viewCurrentFreq" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/currentFreqTextView"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/spinner_cpufreq"
+        android:layout_toEndOf="@+id/spinner_cpufreq" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="change to default"
+        android:id="@+id/setDefaultButton"
+        android:layout_alignTop="@+id/setUserspaceButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="changeToDefault" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_cpufreq"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/setDefaultButton"
+        android:layout_toLeftOf="@+id/setDefaultButton" />
+
+</RelativeLayout>
