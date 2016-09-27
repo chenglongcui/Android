@@ -1,0 +1,7 @@
+#Mon Sep 26 21:44:11 ACST 2016
+base.0=/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ac7fb7b775e6038394620f69a2aa97063791771
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8eb9e42321ef999aeedbab96c46c763f13c67de2/classes.dex
+base.1=/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8eb9e42321ef999aeedbab96c46c763f13c67de2
+file.0=/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ac7fb7b775e6038394620f69a2aa97063791771/classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/src/debug/jniLibs"/></dataSet></merger>

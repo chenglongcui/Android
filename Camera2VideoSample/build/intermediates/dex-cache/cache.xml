@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0a0d517ad2eb7312ea386c732c02bf58988bc6f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ad336a50dec0d8b90d63d79c39e05d41c6cef59c">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ac7fb7b775e6038394620f69a2aa97063791771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_2fbe2e723c72ae49c0c0a40a05e260098c8bf506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_22518f947839d1c7a9957c2c7f654eee5bef7309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8417f0a33eceacbfb1d91ee6edec3fdd1b1a9767">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8eb9e42321ef999aeedbab96c46c763f13c67de2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_6acefa50072077b1421b749bd7d87d698d4f5899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_4d18b28db295dc51af7fcee5d57eb75b79f9f352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_c5c1eb9d9b0f7a4d64da70f736982782c3dd5539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_b4b3cbacc6b774b901fc61242dde735d15847155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_a4f9d1c06aa9e88fcd649d3be2409c386a414223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/chenglongCUI/Programming/Android/Camera2VideoSample/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_1bc18dc735f124f1140ee4a5dba77dc8f86622aa/classes.dex" />
+    </item>
+
+</items>
